@@ -1,0 +1,30 @@
+.ta{
+    border: 2px solid gray ;
+}
+.s1{
+    border: solid;
+    background: yellow;
+    width: 38%;
+    height: 400px;
+    font-size: 20px;
+    margin: 5%;
+    display:inline-block;
+   align-items: center;
+
+}d1{
+    display: flex;
+    align-items: center;
+
+    text-align: center;
+    /* width: ; */
+}
+table th{
+    border:1px solid  black;
+}
+table td{
+    border:1px solid  black;
+}
+table{
+    margin: auto;
+    margin-top: 10%;
+}
